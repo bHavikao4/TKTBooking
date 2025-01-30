@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+<link rel="stylesheet" href="Style.css">
 
+</head>
+
+<body>
+ <header id="main-header">
+        <img src="https://i.pinimg.com/564x/ac/af/2d/acaf2dbb709ed7e7a8d52d8349c95a49.jpg "height =150px width=150px alt="Logo">
+        <input type="text" placeholder="Search movies">
+        <input type="text" placeholder="Search theatres">
+        <button>Profile</button>
+    
+        </header>
+        <header>
+        <main id="main-body">
+        <section id="main-showcase">
+            <h1>Movies</h1>
+            <div class="card-container">
+                <div class="box">
+                    <img src="https://musicart.xboxlive.com/7/50bc5100-0000-0000-0000-000000000002/504/image.jpg "height=100px width="100px" alt="Movie 1 image">
+                    <h4>Movie Name: LUCA</h4>
+                    <h4>Movie Rating: ★★★★☆</h4> 
+                    </div>
+                    <div class="box">
+                        <img src="https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/inside-out-2-sensory-friendly-screening-et00409895-1724927670.jpg  "height=05px width="05 px" alt="Movie 1 image">
+                        <h4>Movie Name: INSIDE OUT</h4>
+                        <h4>Movie Rating: ★★★★☆</h4></div>
+                         <div class="box">
+                        <img src="https://m.media-amazon.com/images/M/MV5BOTY1YmU1ZTItMzNjZC00ZGU0LTk0MTEtZDgzN2QwOWVlNjZhXkEyXkFqcGc@._V1_.jpg "height=100px width="100px" alt="Movie 1 image">
+                        <h4>Movie Name: ENCANTO</h4>
+                        <h4>Movie Rating: ★★★★☆</h4></div>
+                         <div class="box">
+                        <img src="https://lumiere-a.akamaihd.net/v1/images/p_toystory2_19639_4eca9113.jpeg  "height=100px width="100px" alt="Movie 1 image">
+                        <h4>Movie Name: TOY STORY 2</h4>
+                        <h4>Movie Rating: ★★★☆☆</h4></div>
+                         <div class="box">
+                        <img src="https://m.media-amazon.com/images/I/81LYN88ImbL._AC_UF1000,1000_QL80_.jpg"height=100px width="100px" alt="Movie 1 image">
+                        <h4>Movie Name: FROZEN 2</h4>
+                        <h4>Movie Rating: ★★★★★</h4></div>
+                         <div class="box">
+                        <img src="https://m.media-amazon.com/images/S/pv-target-images/939a35d138ebf0111de82867a4078be60c5c2d7d9ea881c974a5059323344a5d.jpg "height=100px width="100px" alt="Movie 1 image">
+                        <h4>Movie Name: SHREK</h4>
+                        <h4>Movie Rating: ★★★☆☆</h4></div>
+
+    
+    </header>
+</body>
+<footer id="main-footer">
+        <p>&copy; My Movie Booker</p>
+</html>
