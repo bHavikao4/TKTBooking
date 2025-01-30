@@ -1,1 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+</head>
+<body>
+<body>
+    <header id="main-header">
+        <img src="https://i.pinimg.com/564x/ac/af/2d/acaf2dbb709ed7e7a8d52d8349c95a49.jpg "height =150px width=150px alt="Logo">
+        <input type="text" placeholder="Search movies">
+        <input type="text" placeholder="Search theatres">
+        <button>Profile</button>
+        </header>
+        <link rel="stylesheet" href="Style.css">
+        <main id="main-body">
+        <div class="card-container">
+            <div class="box">
+                <img src="https://m.media-amazon.com/images/M/MV5BMWMyNGNlZTktODVkNS00ZmMyLTk0NmUtNWVjOWU1MWMzZGMzXkEyXkFqcGc@._V1_.jpg" height=250px width=250px alt="Movie 1 image">
+                <h4>Movie name: LUCA</h4>
+                <h4>Movie rating:★★★★☆</h4>
+            </div>
+            <div class="info">
+                <h4>Movie Info: Directed : Enrico Casarosa
+                                Story :Enrico Casarosa , Jesse Andrews , Simon Stephenson</h4>
+                <h4>Movie language :TELUGU, HINDI ,ENGLISH </h4>
+            </div>
+        </div>
+        
+    <main id="main-body">
+        <div class="card-container">
+            <div class="box">
+                <img src="https://musicart.xboxlive.com/7/1e376c00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080" height =150px width=150px alt="Movie 1 image">
+                <h4>Movie name:INSIDE OUT</h4>
+                <h4>Movie rating:★★★★☆</h4>
+            </div>
+            <div class="info">
+                <h4>Movie Info:Movie Info:
+                    Directed : Pete Docter
+                    Screenplay : Pete DocterMeg, LeFauve,Josh Cooley </h4>
+                <h4>Movie language :TELUGU, HINDI ,ENGLISH </h4>
+            </div>
+        </div>
+        <main id="main-body">
+        <div class="card-container">
+            <div class="box">
+                <img src="https://m.media-amazon.com/images/I/91QOn2-0UNL.jpg"height =150px width=150px alt="Movie 1 image">
+                <h4>Movie name:ENCANTO</h4>
+                <h4>Movie rating:★★★★★</h4>
+            </div>
+            <div class="info">
+                <h4>Movie Info:Directed :	Jared BushByron Howard
+                               Screenplay :	Charise Castro SmithJared Bush </h4>
+                <h4>Movie language :TELUGU, HINDI ,ENGLISH </h4>
+            </div>
+        </div>
+        <main id="main-body">
+        <div class="card-container">
+            <div class="box">
+                <img src="https://m.media-amazon.com/images/I/817I307jcgL._AC_UF1000,1000_QL80_.jpg" height =150px width=150pxalt="Movie 1 image">
+                <h4>Movie name:TOY STORY 2</h4>
+                <h4>Movie rating:★★★★☆</h4>
+            </div>
+            <div class="info">
+                <h4>Movie Info:
+                             Directed :	John Lasseter
+                             Screenplay :	Andrew Stanton,Rita Hsiao,Doug ChamberlinChris Webb </h4>
+                <h4>Movie language :TELUGU, HINDI ,ENGLISH </h4>
+            </div>
+        </div>
+        <main id="main-body">
+        <div class="card-container">
+            <div class="box">
+                <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Frozen_II_%282019_animated_film%29.jpg/220px-Frozen_II_%282019_animated_film%29.jpg" height =150px width=150px alt="Movie 1 image">
+                <h4>Movie name:FROZEN 2</h4>
+                <h4>Movie rating:★★★★★</h4>
+            </div>
+            <div class="info">
+                <h4>Movie Info:
+                Directed :	Chris Buck,Jennifer Lee
+                Screenplay :Jennifer Lee </h4>
+                <h4>Movie language :TELUGU, HINDI ,ENGLISH </h4>
+            </div>
+        </div>
+        <main id="main-body">
+        <div class="card-container">
+            <div class="box">
+                <img src="https://m.media-amazon.com/images/I/81rIrTCrMgL._AC_UF1000,1000_QL80_.jpg" height =150px width=150px alt="Movie 1 image">
+                <h4>Movie name:SHREK</h4>
+                <h4>Movie rating:★★★☆☆</h4>
+            </div>
+            <div class="info">
+                <h4>Movie Info: 
+                Directed :	Andrew Adamson,Vicky Jenson
+                Written :Ted Elliott,Terry Rossio,Joe Stillman,Roger S. H. Schulman
+                </h4>
+                <h4>Movie language :TELUGU, HINDI ,ENGLISH </h4>
+            </div>
+        </div>
+
+</body>
+</html>
 
