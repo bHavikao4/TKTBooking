@@ -1,0 +1,11 @@
+create database bhavika;
+use bhavika;
+create table prasad(
+username varchar(100),
+id int
+);
+insert into prasad (username, id) values(
+'mounika',
+30
+);
+select*from prasad;
