@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="Styles/index.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo"><img src="https://i.pinimg.com/564x/ac/af/2d/acaf2dbb709ed7e7a8d52d8349c95a49.jpg "height =150px width=150px alt="Logo"></div>
+        <div class="auth-buttons">
+            <button onclick="location.href='login.html'">Login</button>
+            <button onclick="location.href='signup.html'">Sign Up</button>
+        </div>
+    </header>
+
+    <div class="container">
+        <h2>Login</h2>
+        <form action="login" method="get">
+            <div class="form-group">
+                <label for="phone">Phone number</label>
+                <input type="text" id="phone" name="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Enter your password</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Login</button>
+        </form>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 My Movie Booker</p>
+    </footer>
+</body>
+
+</html>
