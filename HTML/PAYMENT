@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Payment Methods</title>
+    <link rel="stylesheet" href="Styles/paymentMethods.css">
+</head>
+
+<body>
+    <header>
+      <header id="main-header">
+        <img src="https://i.pinimg.com/564x/ac/af/2d/acaf2dbb709ed7e7a8d52d8349c95a49.jpg "height =150px width=150px alt="Logo">
+    </header>
+
+    <main>
+        <section id="payment-methods-area">
+            <h1>Payment Methods:</h1>
+            <br>
+            <br>
+            <button>payment </button>
+            <button>Remove Payment </button>
+            <button>Back</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; My Movie Booker</p>
+    </footer>
+</body>
+
+</html>
