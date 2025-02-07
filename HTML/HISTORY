@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking History</title>
+    <link rel="stylesheet" href="Styles/bookingHistory.css">
+</head>
+
+<body>
+        <header id="main-header">
+        <img src="https://i.pinimg.com/564x/ac/af/2d/acaf2dbb709ed7e7a8d52d8349c95a49.jpg "height =150px width=150px alt="Logo">
+        <input type="text" placeholder="Search movies">
+        <input type="text" placeholder="Search theatres">
+        <button>back</button>
+    </header>
+    <main>
+        <section id="history">
+            <h1>Booking history:</h1>
+            <br>
+            <br>
+            <button>Back</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; My Movie Booker</p>
+    </footer>
+</body>
+
+</html>
